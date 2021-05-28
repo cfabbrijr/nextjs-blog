@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'Carlos Fabbri Jr'
-export const siteTitle = 'Site teste com Next.js'
+export const siteTitle = 'Meu site de teste com Next.js'
 
 export default function Layout({ children, home }) {
   return (
